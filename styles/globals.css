@@ -1,0 +1,49 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#060940 ;
+ 
+}
+
+.title {
+
+  font-family: calibri ;
+  color: #E5E5E5 ;
+  letter-spacing: 5px;
+}
+
+.color {
+  text-align: center;
+  font-family: calibri ;
+  color: #E5E5E5 ;
+  letter-spacing: 10px;
+  border-style: solid ;
+  border-color:#231773;
+}
+.titulo {
+  font-family: calibri ;
+  color: #E5E5E5 ;
+  letter-spacing: 15px;
+  text-align: center;
+}
+.titulo1 {
+  font-family: calibri ;
+  color: #E5E5E5 ;
+  letter-spacing: 16px;
+  text-align: center;
+}
